@@ -8,7 +8,30 @@
     display: none;
   }
 
+  .wp-about-author-container-none {
+    display: none;
+  }
+
+  .fluid-width-video-wrapper {
+    display: none;
+  }
+
   img {
+    display: none;
+    width: 0px;
+    height: 0px;
+  }
+
+
+  .button-full-width {
+    display: none;
+  }
+
+  .button-blue {
+    display: none;
+  }
+
+  .button {
     display: none;
   }
 
