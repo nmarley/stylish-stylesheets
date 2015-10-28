@@ -1,0 +1,15 @@
+@media print {
+
+  #comments, #top-nav-wrapper, #open-mobile-nav, #top-bar-sticky-wrapper, #page-sidebar, #footer {
+    display: none;
+  }
+
+  .wp-about-author-containter-none {
+    display: none;
+  }
+
+  img {
+    display: none;
+  }
+
+}

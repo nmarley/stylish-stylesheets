@@ -1,0 +1,11 @@
+@media print {
+
+  #footer, #catlinks {
+    display: none;
+  }
+
+  .printfooter {
+    display: none;
+  }
+
+}

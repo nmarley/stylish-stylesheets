@@ -1,0 +1,32 @@
+@media print {
+
+  #side-wrapper1, #HTML3, #HTML1, #linkbar-wrapper, #comments, #blog-pager, #middleads-wrapper, #lower-wrapper, #footer-wrapper {
+    display: none;
+  }
+
+  .post-feeds {
+    display: none;
+  }
+
+  #main-wrapper {
+    max-width: 1200px;
+    border: none;
+  }
+
+  #main {
+    border: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Frutiger Next', Frutiger, 'Segoe UI', 'Hiragino Kaku Gothic Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+    line-height: 1.5em;
+  }
+
+  #main.widget {
+    display: none;
+    margin: 0;
+    padding: 0;
+  }
+
+}
