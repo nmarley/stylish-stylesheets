@@ -1,0 +1,11 @@
+@media print {
+    #comments, #header, #menu, #sidebar, #footer-wrap-outer {
+        display: none;
+    }
+    body {
+        font-family: 'Frutiger Next', Frutiger, 'Segoe UI', 'Hiragino Kaku Gothic Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+    .box2.navigation {
+        display: none;
+    }
+}
